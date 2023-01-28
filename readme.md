@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![logo](https://scontent.cdninstagram.com/v/t51.39111-15/327599578_186681280648258_3206788891565630049_n.jpg?stp=dst-jpg_s240x240&_nc_cat=107&ccb=1-7&_nc_sid=5a057b&_nc_ohc=ZByZcy_I4pIAX-9d7Df&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=02_AVAG39DXAed0iGlpKAK84IZBnrC7TLkPf0nXE7yi_N1jcw&oe=63D97026)
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">Passionate frontend engineer having front-end HTML, CSS, JavaScript, React ,Redux,TypeScript etc. Looking to further enhance my skills as a future frontend developer. Collaborative, team player who is able to work in remotely distributed team</h3>
 <img align="right" width="400px" alt="code" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
