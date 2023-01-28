@@ -1,23 +1,12 @@
-![logo](![96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906](https://user-images.githubusercontent.com/112716576/215264774-7df4a924-98c4-4751-85c3-5d5ed9d4ca1b.jpg)
-)
+![logo](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">Passionate frontend engineer having front-end HTML, CSS, JavaScript, React ,Redux,TypeScript etc. Looking to further enhance my skills as a future frontend developer. Collaborative, team player who is able to work in remotely distributed team</h3>
 <img align="right" width="400px" alt="code" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-- 🔭 I had made a Solo project [SurveyMonkey (Clone)](https://monkey-survey.vercel.app/)
 
-- 🌱 I’m currently learning **Node JS , Mongo DB , Express JS**
-
-- 👯 I’m looking to collaborate on [NeoShop (Ecommerce)](https://neoshop-bay.vercel.app/)
-
-- 🔭 I had made a Solo project [Food Website](https://bassprofrontend.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://superb-cobbler-c12827.netlify.app/](https://superb-cobbler-c12827.netlify.app/)
 
 - 💬 Ask me about **React,Redux,TypeScript**
 
 - 📫 How to reach me **uddibhardwaj08@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rW0JWRmew1BPY_fBLzaVye1lYPKPrC0q/view?usp=share_link](https://drive.google.com/file/d/1rW0JWRmew1BPY_fBLzaVye1lYPKPrC0q/view?usp=share_link)
 
 - ⚡ Fun fact **Programming is so easy !**
 
