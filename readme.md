@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">Passionate frontend engineer having front-end HTML, CSS, JavaScript, React ,Redux,TypeScript etc.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=uddisharma&label=Profile%20views&color=0e75b6&style=flat" alt="uddisharma" /> </p> -->
+<!-- <p< align="left"> <img src="https://komarev.com/ghpvc/?username=uddisharma&label=Profile%20views&color=0e75b6&style=flat" alt="uddisharma" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uddisharma" alt="uddisharma" /></a> </p>
-
+<img width="400px" align="right" alt="code" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 <!-- - 🔭 I had made a Solo project [SurveyMonkey (Clone)](https://monkey-survey.vercel.app/) -->
 
 - 🌱 I’m currently learning **Node JS , Mongo DB , Express JS**
