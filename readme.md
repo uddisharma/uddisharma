@@ -1,7 +1,7 @@
 <!-- ![logo wi]()  -->
 <img width="100%"  alt="Deepak Sharma" src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg">
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="center">Passionate Mern Stack engineer having front-end HTML, CSS, JavaScript, React ,Redux,TypeScript etc.</h3>
+<h3 align="center">Passionate Mern Stack engineer having skills like JavaScript, React ,Redux,TypeScript, Node, Express, MongoDb etc.</h3>
 
 <!-- <p< align="left"> <img src="https://komarev.com/ghpvc/?username=uddisharma&label=Profile%20views&color=0e75b6&style=flat" alt="uddisharma" /> </p> -->
 
