@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/uddisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/uddisharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/deepak-sharma-3b3a82220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-sharma-3b3a82220/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/uddisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/uddisharma" height="30" width="40" /></a>
+<a href="https://dev.to/uddisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/uddisharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-sharma-3b3a82220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-sharma-3b3a82220/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/uddisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/uddisharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/uddisharma73558/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/uddisharma73558/" height="30" width="40" /></a>
 </p>
 
