@@ -9,15 +9,15 @@
 <img width="400px" align="right" alt="code" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 <!-- - 🔭 I had made a Solo project [SurveyMonkey (Clone)](https://monkey-survey.vercel.app/) -->
 
-- 🌱 I’m currently learning **Node JS , Mongo DB , Express JS**
+<!-- - 🌱 I’m currently learning **Node JS , Mongo DB , Express JS** -->
 
-<!-- - 👯 I’m looking to collaborate on [NeoShop (Ecommerce)](https://neoshop-bay.vercel.app/) -->
+- 👯 I’m looking to collaborate on [NeoShop (Ecommerce)](https://neoshop-bay.vercel.app/)
 
-<!-- - 🔭 I had made a Solo project [Food Website](https://bassprofrontend.vercel.app/) -->
+- 🔭 I had made a Solo project [Food Website](https://bassprofrontend.vercel.app/)
 
-<!-- - 👨‍💻 All of my projects are available at [https://superb-cobbler-c12827.netlify.app/](https://superb-cobbler-c12827.netlify.app/) -->
+- 👨‍💻 All of my projects are available at [https://superb-cobbler-c12827.netlify.app/](https://superb-cobbler-c12827.netlify.app/)
 
-- 💬 Ask me about **React,Redux,TypeScript**
+- 💬 Ask me about **React,Redux,Next JS , Node JS , Mongo DB , Express JS**
 
 - 📫 How to reach me **uddibhardwaj08@gmail.com**
 
