@@ -1,5 +1,5 @@
 <!-- ![logo wi]()  -->
-<img width="100%"  alt="Deepak Sharma" src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg">
+<img width="100%"  alt="Deepak Sharma" src="[https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg](https://media.licdn.com/dms/image/D4D16AQE35bec0Iu-gw/profile-displaybackgroundimage-shrink_350_1400/0/1683978668061?e=1695254400&v=beta&t=yUoNNEpn1MeMHd4R9tKiIja_AlEwUWdnxCbegjWvjxM)">
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">Passionate Mern Stack engineer having skills like JavaScript, React ,Redux,TypeScript, Node, Express, MongoDb etc.</h3>
 
