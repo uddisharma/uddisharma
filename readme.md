@@ -15,7 +15,7 @@
 
 - 🔭 Completed Projects [Mits Natura](https://www.mitsnatura.com) [Mits Entertainment](https://www.mitsentertainment.com) [Mits Aviation](https://www.mitsaviation.com)
 
-- 👨‍💻 All of my projects are available at [https://superb-cobbler-c12827.netlify.app/](https://deepak-tech.vercel.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://deepak-tech.vercel.app/)
 
 - 💬 Ask me about **React,Redux,Next JS , Node JS , Mongo DB , Express JS**
 
