@@ -11,17 +11,17 @@
 
 <!-- - 🌱 I’m currently learning **Node JS , Mongo DB , Express JS** -->
 
-- 👯 I’m looking to collaborate on [NeoShop (Ecommerce)](https://neoshop-bay.vercel.app/)
+- 👯 I’m working on [Full Stack Ecommerce Website ](https://www.fitbuzzshop.com)
 
-- 🔭 I had made a Solo project [Food Website](https://bassprofrontend.vercel.app/)
+- 🔭 Completed Projects [Mits Natura](https://www.mitsnatura.com) [Mits Entertainment](https://www.mitsentertainment.com) [Mits Aviation](https://www.mitsaviation.com)
 
-- 👨‍💻 All of my projects are available at [https://superb-cobbler-c12827.netlify.app/](https://superb-cobbler-c12827.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://superb-cobbler-c12827.netlify.app/](https://deepak-tech.vercel.app/)
 
 - 💬 Ask me about **React,Redux,Next JS , Node JS , Mongo DB , Express JS**
 
 - 📫 How to reach me **uddibhardwaj08@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rW0JWRmew1BPY_fBLzaVye1lYPKPrC0q/view?usp=share_link](https://drive.google.com/file/d/1rW0JWRmew1BPY_fBLzaVye1lYPKPrC0q/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1A6FmqvkaXEOI5lT0D5fRFKnpz3UjMid_/view?usp=drivesdk)
 
 - ⚡ Fun fact **Programming is so easy !**
 
