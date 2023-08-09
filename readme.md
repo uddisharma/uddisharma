@@ -1,7 +1,7 @@
 <!-- ![logo wi]()  -->
 <img width="100%"  alt="Deepak Sharma" src="https://media.licdn.com/dms/image/D4D16AQE35bec0Iu-gw/profile-displaybackgroundimage-shrink_350_1400/0/1683978668061?e=1695254400&v=beta&t=yUoNNEpn1MeMHd4R9tKiIja_AlEwUWdnxCbegjWvjxM">
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="center">Passionate Mern Stack engineer having skills like JavaScript, React ,Redux,TypeScript, Node, Express, MongoDb etc.</h3>
+<h3 align="center">Passionate Mern Stack engineer having skills like JavaScript, React , Redux, TypeScript, Node, Express, MongoDB etc.</h3>
 
 <!-- <p< align="left"> <img src="https://komarev.com/ghpvc/?username=uddisharma&label=Profile%20views&color=0e75b6&style=flat" alt="uddisharma" /> </p> -->
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://deepak-tech.vercel.app/)
 
-- 💬 Ask me about **React,Redux,Next JS , Node JS , Mongo DB , Express JS**
+- 💬 Ask me about **React, Redux, Next JS, Node JS, Mongo DB, Express JS**
 
 - 📫 How to reach me **uddibhardwaj08@gmail.com**
 
