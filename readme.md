@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=uddisharma&color=blueviolet)
+
 
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">Passionate Mern Stack developer having skills like JavaScript, React , Redux, TypeScript, Node, Express, MongoDB etc.</h3>
