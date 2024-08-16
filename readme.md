@@ -2,11 +2,11 @@
 
 <h1 align="left">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="left">Passionate Full Stack Engineer having skills like </h3> 
-<h2> JavaScript , TypeScript , React Js , Next Js , Monorepo Turborepo , Redux , Recoil </h2>
-<h2> Node Js , Express Js , Hono ( Serverless functions ) , Graphql , Redis , Kafka </h2> 
-<h2> MongoDB , Postgres DB , Mongoose , Prisma </h2> 
-<h2> Jest , Vitest , Cypress </h2>
-<h2> Docker , CI CD , kubernetes , AWS ( EC2 , S3 , ASG ) , Cloudflare </h2>
+<h3> JavaScript , TypeScript , React Js , Next Js , Monorepo Turborepo , Redux , Recoil </h3>
+<h3> Node Js , Express Js , Hono ( Serverless functions ) , Graphql , Redis , Kafka </h3> 
+<h3> MongoDB , Postgres DB , Mongoose , Prisma </h3> 
+<h3> Jest , Vitest , Cypress </h3>
+<h3> Docker , CI CD , kubernetes , AWS ( EC2 , S3 , ASG ) , Cloudflare </h3>
 
 <!-- <p< align="left"> <img src="https://komarev.com/ghpvc/?username=uddisharma&label=Profile%20views&color=0e75b6&style=flat" alt="uddisharma" /> </p> -->
 
