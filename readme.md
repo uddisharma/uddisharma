@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="left">Passionate Full Stack Engineer having skills like </h3> 
+<h3 align="left"> Full Stack Engineer having skills like </h3> 
 <h3> Frontend : JavaScript , TypeScript , React Js , Next Js , Monorepo Turborepo , Redux , Recoil </h3>
 <h3> Backend :  Node Js , Express Js , Hono ( Serverless functions ) , Graphql , Redis , Kafka </h3> 
 <h3> Database : MongoDB , Postgres DB , Mongoose , Prisma </h3> 
