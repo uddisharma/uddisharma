@@ -7,12 +7,12 @@ const greenStr = (str) => `\x1b[32m${str}\x1b[32m`;
 
 const info = {
   status: 'CS student',
-  web: 'https://sargam.xyz',
-  gh: 'https://github.com/devsargam',
-  desc: 'A full stack dev getting hands dirty in open source',
+  web: 'https://deepakbhardwaj.me',
+  gh: 'https://github.com/uddisharma',
+  desc: 'A full stack dev getting hands dirty in web experimenting',
   skills: {
-    langs: ['.js', '.ts', '.py', '.sh'],
-    skils: ['vim', 'git', 'docker', 'networking', 'oss'],
+    langs: ['.js', '.ts'],
+    skils: ['git', 'docker', 'networking', 'oss'],
   },
 };
 
