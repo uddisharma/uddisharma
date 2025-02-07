@@ -1,5 +1,3 @@
-<h2>Hi 👋 I'm Deepak Sharma</h2>
-
 <h2>Tools I Use</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,redux,postgres,redis,mongo,git,docker,k8s,kafka,linux,githubactions)](https://skillicons.dev)
