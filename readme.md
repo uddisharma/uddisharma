@@ -9,4 +9,4 @@
 <p><a href="https://discord.deepakbhardwaj.me/">Talksphere</a> → A real-time chat and calling platform. <b>Used by 2 users</b></p>
 <p><a href="https://github.com/uddisharma/Rydehub/">Rydehub</a> → A scalable microservices-based ride-sharing application.</p>
 <p><a href="https://exchange.deepakbhardwaj.me/">Exchange</a> → A digital marketplace for trading and exchanging goods.</p>
-<p><a href="https://detector.deepakbhardwaj.me/">Object Detector</a> → A machine-learning-powered object detection tool.</p>
+<p><a href="https://detector.deepakbhardwaj.me/">Detector</a> → A machine-learning-powered object detection tool.</p>
