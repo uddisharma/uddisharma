@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,redux,postgres,redis,mongo,git,docker,k8s,kafka,linux,githubactions)](https://skillicons.dev)
+
 <h2>Projects I'm Working On</h2>
 
 <p><a href="https://notion.deepakbhardwaj.me/">Notesphere</a> → A Notion-like platform for taking notes. <b>Used by 7 users</b></p>
