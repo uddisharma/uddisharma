@@ -1,5 +1,3 @@
-<h2>Tools I Use</h2>
-
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,redux,postgres,redis,mongo,git,docker,k8s,kafka,linux,githubactions)](https://skillicons.dev)
 
 <h2>Projects I'm Working On</h2>
@@ -10,3 +8,7 @@
 <p><a href="https://github.com/uddisharma/Rydehub/">Rydehub</a> → A scalable microservices-based ride-sharing application.</p>
 <p><a href="https://exchange.deepakbhardwaj.me/">Exchange</a> → A digital marketplace for trading and exchanging goods.</p>
 <p><a href="https://detector.deepakbhardwaj.me/">Detector</a> → A machine-learning-powered object detection tool.</p>
+
+
+
+<h2>Building own brand in AI world for Prisma</h2>
